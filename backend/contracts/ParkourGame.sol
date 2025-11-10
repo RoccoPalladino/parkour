@@ -32,6 +32,7 @@ contract ParkourGame is ZamaEthereumConfig {
     // NFT token counter
     uint256 private _tokenCounter;
     
+    
     // Mapping: tokenId => Character
     mapping(uint256 => Character) public characters;
     
