@@ -1,3 +1,4 @@
+// FHEVM Hardhat plugin for encrypted contract support
 import "@fhevm/hardhat-plugin";
 import "@nomicfoundation/hardhat-chai-matchers";
 import "@nomicfoundation/hardhat-ethers";
