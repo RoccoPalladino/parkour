@@ -2,8 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Global styles for Parkour Game */
-
 @layer base {
   body {
     @apply bg-white text-gray-800;

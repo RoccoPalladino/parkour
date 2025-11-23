@@ -20,7 +20,6 @@ export default function Home() {
                 <p className="text-blue-100 text-lg">
                   Encrypted Gaming powered by Zama FHEVM
                 </p>
-                
               </div>
             </div>
           </div>
